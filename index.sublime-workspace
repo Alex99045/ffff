@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"name",
+				"token_name"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"l",
+				"list-style\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"add",
+				"add_friends_modal"
+			],
+			[
+				"cha",
+				"chat_message"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"to",
+				"to_user_id"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"header",
+				"header_view"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"me",
+				"menu_padding"
+			],
+			[
+				"blo",
+				"block_user"
+			],
+			[
+				"frien",
+				"friend_id"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"usr",
+				"user_id"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"mymr",
+				"mysql_num_rows"
+			],
+			[
+				"mym",
+				"mysql_num_fields"
+			],
+			[
+				"List",
+				"ListFriends"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"get",
+				"get_toast_bottom"
+			],
+			[
+				"frie",
+				"friend_id"
+			],
+			[
+				"su",
+				"success_delete"
+			],
+			[
+				"t",
+				"top\tvertical-align"
+			],
+			[
+				"po",
+				"pol"
+			],
+			[
+				"pop",
+				"popular"
+			],
+			[
+				"sort_",
+				"sort_people"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"sor",
+				"sort_date_reg"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"pri",
+				"printf"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"ara",
+				"array\t$… = array (…)"
+			],
+			[
+				"wor",
+				"word-break\tproperty"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"logn",
+				"login"
+			],
+			[
+				"GE",
+				"_GET"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ema",
+				"email"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"foe",
+				"form_reset"
+			],
+			[
+				"Moda",
+				"modalResetPassword"
+			],
+			[
+				"logaut",
+				"logaut_result"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"objc",
+				"object-fit\tproperty"
+			],
+			[
+				"ava",
+				"avatar_new"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"myfa",
+				"mysql_fetch_assoc"
+			],
+			[
+				"arr",
+				"arrayRow"
+			],
+			[
+				"fa",
+				"favorite_place"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"follo",
+				"follow_"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"bre",
+				"word-break\tproperty"
+			],
+			[
+				"c",
+				"cover\tobject-fit"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"id_",
+				"id_to"
+			],
+			[
+				"sai",
+				"sait_three"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"Пу",
+				"Публикации"
+			],
+			[
+				"boo",
+				"bookmarks"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"send",
+				"status_send"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"text",
+				"text_message"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"mysqn",
+				"mysql_num_rows"
+			],
+			[
+				"view",
+				"view_friends"
+			],
+			[
+				"cou",
+				"count_dialog"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"id",
+				"id_to"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"rows",
+				"rows_friend"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"P",
+				"PodelicaFriends"
+			],
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"wd",
+				"width\tproperty"
+			],
+			[
+				"пу",
+				"публикаций"
+			],
+			[
+				"fi",
+				"films"
+			],
+			[
+				"quote",
+				"quotes"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"mess",
+				"messager"
+			],
+			[
+				"texa",
+				"text-align\tproperty"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"loga",
+				"loading"
+			],
+			[
+				"del",
+				"DelPostComment"
+			],
+			[
+				"marr",
+				"margin-right\tproperty"
+			],
+			[
+				"Like",
+				"LikePeople"
+			],
+			[
+				"comm",
+				"comment_reply_"
+			],
+			[
+				"comme",
+				"comment_post"
+			],
+			[
+				"комм",
+				"комментарий"
+			],
+			[
+				"count_",
+				"count_comment"
+			],
+			[
+				"res",
+				"comment_result"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"materi",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"sft",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pame",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"stp ser",
+				"SFTP: Setup Server…"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 266.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Desktop/kidney/logo.svg",
+		"/Users/admin/Desktop/kidney/index.html",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/admin/.Trash/tofriends.ru/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/oauth/mvp/view/oauthView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/inspection/mvp/view/viewInspection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/main/mvp/view/mainView.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/controller/registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/controller/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/oauth/mvp/presenter/oauthPresenter.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/controller/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/api.tofriends/profile/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/main/mvp/presenter/mainPresenter.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tofriends.ru/main/mvp/model/main.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/connection/error.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/connection/bd.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/model/users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/edit.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/coligram.ru/.htaccess",
+		"/Applications/XAMPP/xamppfiles/htdocs/andlesson/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/andlesson/cours.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/andlesson/css/index.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/lesson/bd/error.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/lesson/bd/conn.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/lesson/untitled",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/friends.php",
+		"/Users/admin/Downloads/Vector.svg",
+		"/Users/admin/Downloads/location_on-24px 1.svg",
+		"/Users/admin/Downloads/Иконки/Vector.svg",
+		"/Users/admin/Desktop/testAndroid/Vector.svg",
+		"/Users/admin/Downloads/Иконки 2/Vector.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/programer/.htaccess",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1593271283/host/domains/tofriends.ru/dialog/fetch_dialog_list.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1593271495/host/domains/tofriends.ru/profile/mvp/view/profileView.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1593271400/host/domains/tofriends.ru/dialog.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1593271327/host/domains/tofriends.ru/dialog/fetch_user.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1593271165/host/domains/tofriends.ru/dialog/database_connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/classes/chat.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/chat/database_connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/people.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/js/people.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/im.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/view/users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/view/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/presenter/send_message.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/presenter/add_friends.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/presenter/untitled",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/icons/add.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/explore.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/js/login.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/css/login.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/classes/users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/view/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/presenter/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/presenter/registration.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/classes/method/user.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/view/user.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/schat/modules/bash.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/schat/xsmiles/icon_neutral.gif",
+		"/Users/admin/Desktop/Новая папка/users.xml",
+		"/Users/admin/Desktop/Новая папка/users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/connection/bd.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/connection/error.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/css/index.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/tochat.ru/js/index.js",
+		"/Users/admin/Downloads/api/config/database.php",
+		"/Users/admin/Downloads/scripts_reg_auth/reg/scripts/auth/auth_form.html",
+		"/Users/admin/Downloads/scripts_reg_auth/reg/scripts/auth/auth.php",
+		"/Users/admin/Downloads/scripts_reg_auth/reg/scripts/reg/reg.php",
+		"/Users/admin/Downloads/scripts_reg_auth/reg/func/funct.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/add_block.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/people.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/add_bookmarks.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/block.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/save.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/block.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/save.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/classes/methodUsers/errorUsers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/add_friends.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/friends.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/friends.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/friends.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/subscribers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/classes/methodUsers/getMethodUsers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/sort_people.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/profile.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/subscribers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/subscribers.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/subscribers.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/subscribers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/view/search.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/friends.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/friends.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/profile.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/people.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/hashtag.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/index.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/edit.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/css/explore.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/edit.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/people.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/hashtag.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/explore.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/profile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/js/index.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/post/presenter/search.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587839472/host/domains/tofriends.ru/controller/saved_post.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587840400/host/domains/tofriends.ru/.htaccess",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587841137/host/domains/tofriends.ru/controller/post.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587670356/host/domains/tofriends.ru/main/mvp/view/mainView.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587634984/host/domains/tofriends.ru/index.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587635021/host/domains/tofriends.ru/oauth/mvp/view/oauthView.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587841597/host/domains/tofriends.ru/viewModal/modal_post.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1588063445/host/domains/tofriends.ru/viewModal/modal_post.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1588063723/host/domains/tofriends.ru/viewModal/podelica_friends.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587838391/host/domains/tofriends.ru/controller/avatar.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587841554/host/domains/tofriends.ru/viewModal/comment_previous.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587641523/host/domains/tofriends.ru/inspection.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587639482/host/domains/tofriends.ru/profile/mvp/view/profileView.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587634928/host/domains/tofriends.ru/controller/registration.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587670077/host/domains/tofriends.ru/inspection/mvp/view/viewInspection.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587634800/host/domains/tofriends.ru/oauth/mvp/presenter/oauthPresenter.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587641415/host/domains/tofriends.ru/index.php",
+		"/var/folders/sd/n2wfygxs31d9qxwv3r9rkvb80000gn/T/sublime-sftp-browse-1587635207/host/domains/tofriends.ru/css/mobile_oauth.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 469.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 159.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 159.0
+	},
+	"output.sftp":
+	{
+		"height": 197.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/veb.sublime-workspace"
+			],
+			[
+				"c",
+				"/veb.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
